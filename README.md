@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 I am currently learning C#.<br>🎈 Busy in Building projects<br>🏗️ Building my portfolio and resume.<br>
+🧑‍💻 I am currently learning C#.<br>🎈 Looking forwared to collaborate on frontend projects<br>🏗️ Building my portfolio and resume.<br>
 
 
 ## 🌐 Socials:
