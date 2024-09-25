@@ -8,7 +8,7 @@ Fullstack Developer
 
 Building extensible, functional and beautiful user interfaces.
 
-*   🌍  I'm based in Kashmir, India.
+*   🌍  I'm based in Kashmir.
 *   🖥️  See my portfolio at [Personal Website.](http://portfolio-saheem.vercel.app)
 *   ✉️  You can contact me at [m.saheemshafi@gmail.com](mailto:m.saheemshafi@gmail.com)
 *   🚀  I'm currently working on [Void Video](http://github.com/saheemshafi/void_video)
