@@ -1,5 +1,3 @@
-!["Banner"](https://media.licdn.com/dms/image/D5616AQFjMbI1bCdCTg/profile-displaybackgroundimage-shrink_350_1400/0/1709668393617?e=1717027200&v=beta&t=3RwlF_3MWwn9tbO9qhzAc5hQxvYkebFVPhsm-G6-s5s)
-
 Hi 👋 My name is Saheem Shafi
 =============================
 
